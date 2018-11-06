@@ -52,7 +52,7 @@
             enableCountByExample、enableSelectByExample、enableDeleteByExample、enableUpdateByExample、selectByExampleQueryId：
             去除自动生成的例子
         -->
-        <table schema="" tableName="orders" enableCountByExample="false" enableSelectByExample="false"
+        <table schema="" tableName="loginusers" enableCountByExample="false" enableSelectByExample="false"
                enableDeleteByExample="false" enableUpdateByExample="false" selectByExampleQueryId="false" >
         </table>
     </context>
